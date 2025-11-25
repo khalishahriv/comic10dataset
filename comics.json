@@ -37,7 +37,7 @@
     "year": 2009,
     "rating": 9.5,
     "description": "Pertarungan manusia melawan Titan dalam dunia penuh misteri.",
-    "image_url": "https://drive.google.com/uc?export=view&id=12C-Hw1ocsFdEHaHx4Fkuj5FVRU7xPBK-"
+    "image_url": "https://raw.githubusercontent.com/khalishahriv/comic10dataset/refs/heads/main/aot.png"
   },
   {
     "id": 5,
@@ -100,3 +100,4 @@
     "image_url": "https://drive.google.com/uc?export=view&id=11bW0-rgPzMvrPAlK5eIrOkHLqd8fdypL"
   }
 ]
+

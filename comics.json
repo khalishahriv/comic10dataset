@@ -7,7 +7,7 @@
     "year": 1997,
     "rating": 9.1,
     "description": "Petualangan bajak laut Monkey D. Luffy dalam mencari harta karun legendaris One Piece.",
-    "image_url": "https://drive.google.com/uc?export=view&id=1PuiJmazfT7s2ZagdT9xAz_54KtPoxlKm"
+    "image_url": "https://raw.githubusercontent.com/khalishahriv/comic10dataset/refs/heads/main/onepiece.png"
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "year": 1999,
     "rating": 9.0,
     "description": "Kisah ninja Uzumaki Naruto yang bercita-cita menjadi Hokage.",
-    "image_url": "https://drive.google.com/uc?export=view&id=1UawIkNC2AFDC6QDpYmdIOBUFsdKqsBUc"
+    "image_url": "https://raw.githubusercontent.com/khalishahriv/comic10dataset/refs/heads/main/naruto.png"
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "year": 2001,
     "rating": 8.7,
     "description": "Ichigo Kurosaki mendapatkan kekuatan Shinigami dan bertarung melawan Hollow.",
-    "image_url": "https://drive.google.com/uc?export=view&id=1ngG6TnD0JK2rVUgddmfZYTQAfWPL8LBy"
+    "image_url": "https://raw.githubusercontent.com/khalishahriv/comic10dataset/refs/heads/main/bleach.png"
   },
   {
     "id": 4,
@@ -47,7 +47,7 @@
     "year": 2016,
     "rating": 9.3,
     "description": "Tanjiro menjadi pemburu iblis demi menyelamatkan adiknya Nezuko.",
-    "image_url": "https://drive.google.com/uc?export=view&id=1kaSUTvqbEekJHLH3UfwxD2QdN_nHMkWE"
+    "image_url": "https://raw.githubusercontent.com/khalishahriv/comic10dataset/refs/heads/main/demonslayer.png"
   },
   {
     "id": 6,
@@ -57,7 +57,7 @@
     "year": 2018,
     "rating": 9.2,
     "description": "Yuji Itadori melawan kutukan setelah memakan jari Sukuna.",
-    "image_url": "https://drive.google.com/uc?export=view&id=1uBQ0hNpp72k-b7fIT_j6SXk1ZxAsLwVH"
+    "image_url": "https://raw.githubusercontent.com/khalishahriv/comic10dataset/refs/heads/main/jjk.png"
   },
   {
     "id": 7,
@@ -67,7 +67,7 @@
     "year": 2011,
     "rating": 8.8,
     "description": "Kaneki berubah menjadi ghoul setelah insiden mengerikan.",
-    "image_url": "https://drive.google.com/uc?export=view&id=13W37johb7hlNXEgydZSb4dTAI4DFAju5"
+    "image_url": "https://raw.githubusercontent.com/khalishahriv/comic10dataset/refs/heads/main/tokyoghoul.png"
   },
   {
     "id": 8,
@@ -77,7 +77,7 @@
     "year": 2001,
     "rating": 9.4,
     "description": "Edward dan Alphonse mencari Batu Bertuah untuk mengembalikan tubuh mereka.",
-    "image_url": "https://drive.google.com/uc?export=view&id=1zhtpQDGR4EsCm__3-vWbsvAIWbuY2OJW"
+    "image_url": "https://raw.githubusercontent.com/khalishahriv/comic10dataset/refs/heads/main/fma.png"
   },
   {
     "id": 9,
@@ -87,7 +87,7 @@
     "year": 2003,
     "rating": 9.6,
     "description": "Light Yagami menemukan buku kematian yang dapat membunuh hanya dengan menuliskan nama.",
-    "image_url": "https://drive.google.com/uc?export=view&id=17vycsl--pP3wynM2RBs8E8M426Ap77iU"
+    "image_url": "https://raw.githubusercontent.com/khalishahriv/comic10dataset/refs/heads/main/deathnote.png"
   },
   {
     "id": 10,
@@ -97,7 +97,8 @@
     "year": 2006,
     "rating": 8.5,
     "description": "Petualangan guild penyihir Fairy Tail yang penuh aksi dan persahabatan.",
-    "image_url": "https://drive.google.com/uc?export=view&id=11bW0-rgPzMvrPAlK5eIrOkHLqd8fdypL"
+    "image_url": "https://raw.githubusercontent.com/khalishahriv/comic10dataset/refs/heads/main/fairytail.png"
   }
 ]
+
 
